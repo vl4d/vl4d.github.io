@@ -1,6 +1,6 @@
 url: https://vl4d.github.io
 baseurl: http://vldmr.info
-#dev-baseurl: /vldmr.io
+#dev-baseurl: /vldmr.io/
 
 # Site settings
 title: Vladimir S. Murray
@@ -37,7 +37,7 @@ social:
   - title: github
     url: http://github.com/vl4d
   - title: google-plus
-    url: #
+    url: https://plus.google.com/+VladimirMurrayTech
 
 # Build settings
 markdown: kramdown
