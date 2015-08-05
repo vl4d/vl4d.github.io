@@ -17,25 +17,25 @@ color:
 personal:
   name: Vladimir S. Murray
   pic: 1
-  position: Software Developer|Consultant
+  position: Software Developer | Consultant
 
 #Navbar items
 navbar:
   - title: Skills
     anchor: skills
-  - title: Education
-    anchor: education
+  - title: Experience
+    anchor: experience
   - title: Portfolio
     anchor: portfolio
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/vl4dism
   - title: linkedin
-    url: https://www.facebook.com/vladimir.murray
+    url: https://jm.linkedin.com/in/vsmurray
   - title: github
     url: http://github.com/vl4d
+  - title: twitter
+    url: http://twitter.com/vl4dism
   - title: google-plus
     url: https://plus.google.com/+VladimirMurrayTech
 
