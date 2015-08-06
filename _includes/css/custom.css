@@ -7,3 +7,7 @@
 .text-muted-yellow {
     color: #FED136;
 }
+
+.site-font-color {
+    color: #{{ site.color.primary }};
+}

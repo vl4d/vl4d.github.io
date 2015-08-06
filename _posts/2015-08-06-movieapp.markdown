@@ -1,0 +1,15 @@
+---
+title: What's at Palace?
+subtitle: Android Development
+layout: default
+modal-id: 1
+date: 2015-08-06
+img: movieapp-main.jpg
+thumbnail: movieapp-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client:
+category: Android Development
+description: Android App used to get get movie schedules and information; including viewer rating, plot, genre, runtime and movie rating for movies currently showing at Palace Amusement Company Limited. This app pulls information from RSS feeds provided by Palace Amusement and fetches the movie information from a movie api.
+
+---
