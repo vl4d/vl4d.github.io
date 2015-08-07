@@ -3,7 +3,7 @@ title: Missin-ger
 subtitle: Android Development
 layout: default
 modal-id: 2
-date: 2015-08-05
+date: 2015-08-04
 img: missinger-main.jpg
 thumbnail: missinger-thumbnail.jpg
 alt: image-alt
