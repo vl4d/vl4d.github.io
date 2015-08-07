@@ -4,8 +4,8 @@ subtitle: Android Development
 layout: default
 modal-id: 2
 date: 2015-08-05
-img: 
-thumbnail: 
+img: missinger-main.jpg
+thumbnail: missinger-thumbnail.jpg
 alt: image-alt
 project-date: January 2014
 client: Digital Jam 3rd Edition

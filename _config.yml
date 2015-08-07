@@ -1,6 +1,6 @@
 url: https://vl4d.github.io
-#baseurl: http://vldmr.info
-dev-baseurl: /vldmr.io/
+baseurl: http://vldmr.info
+#dev-baseurl: /vldmr.io/
 
 # Site settings
 title: Vladimir S. Murray
@@ -16,6 +16,7 @@ color:
 # Team names, titles and social links
 personal:
   name: Vladimir S. Murray
+  qualification: BSc. Computer Science
   pic: avatar
   position: Software Developer | Consultant
 
