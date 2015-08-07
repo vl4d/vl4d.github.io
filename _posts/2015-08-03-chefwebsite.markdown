@@ -10,6 +10,6 @@ alt: image-alt
 project-date: September 2013
 client: Fusion Cuisine
 category: Website Design & Development
-description: Website for Chef Lauren Headley  her growing pastry business Fusion Cuisine.
+description: Website for Chef Lauren Headley and her growing pastry business Fusion Cuisine.
 
 ---

@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client:
 category: Android Development
-description: Android App used to get get movie schedules and information; including viewer rating, plot, genre, runtime and movie rating for movies currently showing at Palace Amusement Company Limited. This app pulls information from RSS feeds provided by Palace Amusement and fetches the movie information from a movie api.
+description: Android App used to get movie schedules and information; including viewer rating, plot, genre, runtime and movie rating for movies currently showing at Palace Amusement Company Limited. This app pulls information from RSS feeds provided by Palace Amusement and fetches the movie information from a movie api.
 
 ---
