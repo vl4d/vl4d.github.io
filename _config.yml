@@ -5,7 +5,7 @@ baseurl: http://vldmr.info
 # Site settings
 title: Vladimir S. Murray
 email: murray.vladimir@gmail.com
-description: "Personal site and portfolio for Vladimir Murray"
+description: Personal site and portfolio for Vladimir Murray
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
