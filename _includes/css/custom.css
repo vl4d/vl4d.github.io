@@ -4,10 +4,6 @@
   vldmr.info
 **/
 
-.text-muted-yellow {
-    color: #FED136;
-}
-
-.site-font-color {
+.text-muted-primary-color {
     color: #{{ site.color.primary }};
 }
