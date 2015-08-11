@@ -3,7 +3,3 @@
   For personal site of Vladimir Murray.
   vldmr.info
 **/
-
-.text-muted-primary-color {
-    color: #{{ site.color.primary }};
-}
