@@ -1,5 +1,5 @@
 url: https://vl4d.github.io
-baseurl: http://vldmr.info
+baseurl: https://vldmr.info
 #dev-baseurl: /vldmr.io/
 
 # Site settings
@@ -34,9 +34,9 @@ social:
   - title: linkedin
     url: https://jm.linkedin.com/in/vsmurray
   - title: github
-    url: http://github.com/vl4d
+    url: https://github.com/vl4d
   - title: twitter
-    url: http://twitter.com/vladistic
+    url: https://twitter.com/vladistic
   - title: google-plus
     url: https://plus.google.com/+VladimirMurrayTech
 
